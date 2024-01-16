@@ -7,4 +7,5 @@ Development Geologist LLA 34 *Casanare*
 [LinkedIn](https://www.linkedin.com/in/mayerly-nu%C3%B1ez-05a1b714/)
 
 #### Profile Photo
-![Casanare](
+![Casanare](Casanare.png)
+
