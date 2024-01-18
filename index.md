@@ -10,5 +10,5 @@ Development Geologist LLA 34 *Casanare*
 
 ![ Casanare ](Casanare.png "Casanare")
 
-<img style="float: right;" src="Casanare.png" width="50%">
+<img style="float: right;" src="Casanare.png" width="10%">
 
