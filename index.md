@@ -9,4 +9,5 @@ Development Geologist LLA 34 *Casanare*
 #### Profile Photo
 ![ Casanare ](Casanare.png "Casanare")
 
+<img style="float: right;" src="img/Casanare.png" width="10%">
 
